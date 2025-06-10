@@ -1,0 +1,21 @@
+body {
+  background-color: #101010;
+  color: #00ffaa;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+ul#tasks {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+ul#tasks li {
+  background: #222;
+  padding: 10px;
+  margin: 5px auto;
+  border-radius: 8px;
+  max-width: 500px;
+}
